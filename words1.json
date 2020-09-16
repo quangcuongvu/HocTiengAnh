@@ -1,0 +1,1830 @@
+{
+    "giaotieptainhahang": [
+        {
+            "id": "0",
+            "nb_repeat": 1,
+            "next_time": 1600337221,
+            "word": "I have a reservation for two this evening.",
+            "tran": "T\u00f4i \u0111\u00e3 \u0111\u1eb7t tr\u01b0\u1edbc b\u00e0n cho 2 ng\u01b0\u1eddi t\u1ed1i nay."
+        },
+        {
+            "id": "1",
+            "nb_repeat": 1,
+            "next_time": 1600337224,
+            "word": "I'm Phong",
+            "tran": "T\u00ean t\u00f4i l\u00e0 Phong"
+        },
+        {
+            "id": "2",
+            "nb_repeat": 1,
+            "next_time": 1600337234,
+            "word": "Table for three, please!",
+            "tran": "S\u1eafp x\u1ebfp cho t\u00f4i b\u00e0n 3 ng\u01b0\u1eddi nh\u00e9!"
+        },
+        {
+            "id": "3",
+            "nb_repeat": 1,
+            "next_time": 1600426145,
+            "word": "Have you got a table for two people?",
+            "tran": "Anh c\u00f2n b\u00e0n \u0103n cho 2 ng\u01b0\u1eddi kh\u00f4ng?"
+        },
+        {
+            "id": "4",
+            "nb_repeat": 1,
+            "next_time": 1600426163,
+            "word": "It's uncomfortable. It's too close to the door",
+            "tran": "Ch\u1ed7 n\u00e0y kh\u00f4ng tho\u1ea3i m\u00e1i l\u1eafm. N\u00f3 qu\u00e1 g\u1ea7n c\u1eeda ra v\u00e0o"
+        },
+        {
+            "id": "5",
+            "nb_repeat": 1,
+            "next_time": 1600426173,
+            "word": "This one is good. Let's take it",
+            "tran": "Ch\u1ed7 n\u00e0y \u1ed5n r\u1ed3i. Ch\u00fang ta ng\u1ed3i \u0111i"
+        },
+        {
+            "id": "6",
+            "nb_repeat": 1,
+            "next_time": 1600426183,
+            "word": "I prefer the one in that quiet corner",
+            "tran": "T\u00f4i th\u00edch b\u00e0n \u1edf g\u00f3c y\u00ean t\u0129nh kia h\u01a1n"
+        },
+        {
+            "id": "7",
+            "nb_repeat": 1,
+            "next_time": 1600426194,
+            "word": "Can we have a look at the menu, please?",
+            "tran": "L\u00e0m \u01a1n cho t\u00f4i xem qua th\u1ef1c \u0111\u01a1n \u0111\u01b0\u1ee3c kh\u00f4ng?"
+        },
+        {
+            "id": "8",
+            "nb_repeat": 1,
+            "next_time": 1600426201,
+            "word": "What's special for today?",
+            "tran": "M\u00f3n \u0111\u1eb7c bi\u1ec7t c\u1ee7a ng\u00e0y h\u00f4m nay l\u00e0 g\u00ec?"
+        },
+        {
+            "id": "9",
+            "nb_repeat": 1,
+            "next_time": 1600426217,
+            "word": "I think I'll have fried banana to begin with",
+            "tran": "T\u00f4i ngh\u0129 t\u00f4i s\u1ebd d\u00f9ng m\u00f3n chu\u1ed1i chi\u00ean \u0111\u1ec3 khai v\u1ecb"
+        },
+        {
+            "id": "10",
+            "nb_repeat": 1,
+            "next_time": 1600426370,
+            "word": "I'll order the same",
+            "tran": "T\u00f4i c\u0169ng g\u1ecdi m\u00f3n t\u01b0\u01a1ng t\u1ef1"
+        },
+        {
+            "id": "11",
+            "nb_repeat": 1,
+            "next_time": 1600426379,
+            "word": "Bring me two beers, please",
+            "tran": "Mang cho t\u00f4i 2 c\u1ed1c bia nh\u00e9"
+        },
+        {
+            "id": "12",
+            "nb_repeat": 1,
+            "next_time": 1600426386,
+            "word": "Are you ready to order?",
+            "tran": "\u00d4ng s\u1eb5n s\u00e0ng g\u1ecdi m\u00f3n \u0103n r\u1ed3i ch\u1ee9"
+        },
+        {
+            "id": "13",
+            "nb_repeat": 1,
+            "next_time": 1600426397,
+            "word": "Can I take your order now?",
+            "tran": "T\u00f4i c\u00f3 th\u1ec3 g\u1ecdi m\u00f3n cho \u00f4ng b\u00e2y gi\u1edd \u0111\u01b0\u1ee3c kh\u00f4ng?"
+        },
+        {
+            "id": "14",
+            "nb_repeat": 1,
+            "next_time": 1600426411,
+            "word": "What do you have today for breakfast?",
+            "tran": "B\u1eefa s\u00e1ng h\u00f4m nay \u00f4ng mu\u1ed1n d\u00f9ng m\u00f3n g\u00ec?"
+        },
+        {
+            "id": "15",
+            "nb_repeat": 1,
+            "next_time": 1600426424,
+            "word": "What would you like for your main course?",
+            "tran": "\u00d4ng mu\u1ed1n d\u00f9ng m\u00f3n g\u00ec v\u00e0o b\u1eefa ch\u00ednh?"
+        },
+        {
+            "id": "16",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "What dishes would you like?",
+            "tran": "\u00d4ng mu\u1ed1n d\u00f9ng m\u00f3n g\u00ec?"
+        },
+        {
+            "id": "17",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Would you like to order now?",
+            "tran": "\u00d4ng mu\u1ed1n g\u1ecdi \u0111\u1ed3 \u0103n b\u00e2y gi\u1edd kh\u00f4ng?"
+        },
+        {
+            "id": "18",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "And what to follow?",
+            "tran": "V\u00e0 m\u00f3n ti\u1ebfp theo l\u00e0 g\u00ec?"
+        },
+        {
+            "id": "19",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Anything to drink?",
+            "tran": "\u00d4ng d\u00f9ng \u0111\u1ed3 u\u1ed1ng nh\u00e9?"
+        },
+        {
+            "id": "20",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "How would you like that done?",
+            "tran": "\u00d4ng mu\u1ed1n m\u00f3n n\u00e0y \u0111\u01b0\u1ee3c chu\u1ea9n b\u1ecb th\u1ebf n\u00e0o?"
+        },
+        {
+            "id": "21",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "What salad would you prefer?",
+            "tran": "Anh th\u00edch m\u00f3n rau tr\u1ed9n n\u00e0o h\u01a1n?"
+        },
+        {
+            "id": "22",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Would you care for a drink before you order?",
+            "tran": "Tr\u01b0\u1edbc khi g\u1ecdi m\u00f3n \u00f4ng c\u00f3 mu\u1ed1n d\u00f9ng \u0111\u1ed3 u\u1ed1ng kh\u00f4ng \u1ea1?"
+        },
+        {
+            "id": "23",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Anything is all right for me",
+            "tran": "T\u00f4i d\u00f9ng m\u00f3n g\u00ec c\u0169ng \u0111\u01b0\u1ee3c"
+        },
+        {
+            "id": "24",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "I'll order dessert later",
+            "tran": "T\u00f4i s\u1ebd g\u1ecdi m\u00f3n tr\u00e1ng mi\u1ec7ng sau"
+        },
+        {
+            "id": "25",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Can I have the bill, please?",
+            "tran": "Mang h\u00f3a \u0111\u01a1n \u0111\u1ebfn cho t\u00f4i nh\u00e9?"
+        },
+        {
+            "id": "26",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Give me the bill, please",
+            "tran": "Cho t\u00f4i xem h\u00f3a \u0111\u01a1n n\u00e0o"
+        },
+        {
+            "id": "27",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "It's my treat this time. I'll pay",
+            "tran": "L\u1ea7n n\u00e0y t\u00f4i khao. T\u00f4i s\u1ebd thanh to\u00e1n"
+        },
+        {
+            "id": "28",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Let me pay this time. You can pay next time",
+            "tran": "\u0110\u1ec3 t\u00f4i tr\u1ea3 l\u1ea7n n\u00e0y. L\u1ea7n kh\u00e1c c\u1eadu tr\u1ea3"
+        },
+        {
+            "id": "29",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "The bill, please",
+            "tran": "L\u00e0m \u01a1n mang h\u00f3a \u0111\u01a1n l\u1ea1i \u0111\u00e2y"
+        },
+        {
+            "id": "30",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Take your time. I'll be with you in a moment",
+            "tran": "Xin \u00f4ng c\u1ee9 thong th\u1ea3. L\u00e1t n\u1eefa t\u00f4i s\u1ebd quay l\u1ea1i"
+        },
+        {
+            "id": "31",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Waiter! Is the table free?",
+            "tran": "Anh ph\u1ee5c v\u1ee5! B\u00e0n n\u00e0y ch\u01b0a ai \u0111\u1eb7t ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "32",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Yes, please. How many people are these to sit here?",
+            "tran": "V\u00e2ng \u1ea1. C\u00e1c anh c\u00f3 m\u1ea5y ng\u01b0\u1eddi?"
+        },
+        {
+            "id": "33",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Four people",
+            "tran": "4 ng\u01b0\u1eddi"
+        },
+        {
+            "id": "34",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Please take your seats. Did you order?",
+            "tran": "M\u1eddi c\u00e1c anh ng\u1ed3i. C\u00e1c anh g\u1ecdi g\u00ec ch\u01b0a?"
+        },
+        {
+            "id": "35",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Can we have a look at the menu, please?",
+            "tran": "L\u00e0m \u01a1n cho t\u00f4i xem qua th\u1ef1c \u0111\u01a1n \u0111\u01b0\u1ee3c kh\u00f4ng?"
+        },
+        {
+            "id": "36",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Here you are, sir",
+            "tran": "\u0110\u00e2y th\u01b0a anh"
+        },
+        {
+            "id": "37",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Thanks",
+            "tran": "C\u1ea3m \u01a1n"
+        },
+        {
+            "id": "38",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "I have a reservation for two this evening. I'm Phong",
+            "tran": "T\u00f4i \u0111\u00e3 \u0111\u1eb7t tr\u01b0\u1edbc b\u00e0n cho 2 ng\u01b0\u1eddi t\u1ed1i nay. T\u00ean t\u00f4i l\u00e0 Phong"
+        },
+        {
+            "id": "39",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Please follow me, Mr Phong",
+            "tran": "V\u00e2ng, m\u1eddi \u00f4ng theo t\u00f4i"
+        },
+        {
+            "id": "40",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Umm, is this a non- smoking area?",
+            "tran": "\u1ede \u0111\u00e2y kh\u00f4ng h\u00fat thu\u1ed1c ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "41",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Yes, it is. Would you like to wait for the other guest, or would you like to order now?",
+            "tran": "V\u00e2ng. \u00d4ng mu\u1ed1n ch\u1edd v\u1ecb kh\u00e1ch kia t\u1edbi, hay mu\u1ed1n g\u1ecdi m\u00f3n lu\u00f4n \u1ea1?"
+        },
+        {
+            "id": "42",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "I'll wait for a while",
+            "tran": "T\u00f4i s\u1ebd ch\u1edd 1 l\u00e1t"
+        },
+        {
+            "id": "43",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Anything to drink first? Cocktail or juice?",
+            "tran": "\u00d4ng mu\u1ed1n u\u1ed1ng g\u00ec tr\u01b0\u1edbc? Cocktail hay n\u01b0\u1edbc \u00e9p tr\u00e1i c\u00e2y?"
+        },
+        {
+            "id": "44",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Give me a glass of orange juice, please",
+            "tran": "H\u00e3y cho t\u00f4i 1 ly n\u01b0\u1edbc cam"
+        },
+        {
+            "id": "45",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Yeah. And this is menu",
+            "tran": "V\u00e2ng. V\u00e0 \u0111\u00e2y l\u00e0 th\u1ef1c \u0111\u01a1n \u1ea1"
+        },
+        {
+            "id": "46",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Thank you",
+            "tran": "C\u1ea3m \u01a1n"
+        },
+        {
+            "id": "47",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Are you ready to order, sir?",
+            "tran": "Anh g\u1ecdi \u0111\u1ed3 \u0103n lu\u00f4n ch\u1ee9 \u1ea1?"
+        },
+        {
+            "id": "48",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Yes, I'll have an order of cream soup to begin with",
+            "tran": "V\u00e2ng, mang tr\u01b0\u1edbc cho t\u00f4i m\u00f3n s\u00fap kem tr\u01b0\u1edbc nh\u00e9"
+        },
+        {
+            "id": "49",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "What'll you have to follow?",
+            "tran": "Ti\u1ebfp theo anh mu\u1ed1n g\u1ecdi m\u00f3n g\u00ec \u1ea1?"
+        },
+        {
+            "id": "50",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "Perhaps I'll take fried potatoes",
+            "tran": "C\u00f3 l\u1ebd t\u00f4i s\u1ebd \u0103n m\u00f3n khoai t\u00e2y chi\u00ean"
+        },
+        {
+            "id": "51",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "OK. Would you like something to drink?",
+            "tran": "\u0110\u01b0\u1ee3c \u1ea1. Anh c\u00f3 mu\u1ed1n d\u00f9ng \u0111\u1ed3 u\u1ed1ng g\u00ec kh\u00f4ng \u1ea1?"
+        },
+        {
+            "id": "52",
+            "nb_repeat": "0",
+            "next_time": "0",
+            "word": "No, thanks. That's enough",
+            "tran": "Kh\u00f4ng, c\u1ea3m \u01a1n anh. Th\u1ebf l\u00e0 \u0111\u1ee7 r\u1ed3i"
+        }
+    ],
+    "hoithambanbe": [
+        {
+            "id": "30",
+            "nb_repeat": 1,
+            "next_time": 1600279047,
+            "word": "Hi, I'm Minh",
+            "tran": "Xin ch\u00e0o. T\u00f4i l\u00e0 Minh."
+        },
+        {
+            "id": "31",
+            "nb_repeat": 1,
+            "next_time": 1600279090,
+            "word": "Hi/ Hello, I'm Trung. You are ?",
+            "tran": "Ch\u00e0o anh, t\u00f4i l\u00e0 Trung. C\u00f2n anh?"
+        },
+        {
+            "id": "32",
+            "nb_repeat": 1,
+            "next_time": 1600279119,
+            "word": "Hi! What's your name?",
+            "tran": "Xin ch\u00e0o! Anh t\u00ean l\u00e0 g\u00ec?"
+        },
+        {
+            "id": "33",
+            "nb_repeat": 1,
+            "next_time": 1600279175,
+            "word": "I'm Nhung",
+            "tran": "T\u00f4i t\u00ean Nhung."
+        },
+        {
+            "id": "34",
+            "nb_repeat": 1,
+            "next_time": 1600279184,
+            "word": "My name is Thuong",
+            "tran": "T\u00ean t\u00f4i l\u00e0 Th\u01b0\u01a1ng."
+        },
+        {
+            "id": "35",
+            "nb_repeat": 1,
+            "next_time": 1600279271,
+            "word": "I'm happy to meet you",
+            "tran": "R\u1ea5t vui \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh."
+        },
+        {
+            "id": "36",
+            "nb_repeat": 1,
+            "next_time": 1600279279,
+            "word": "Nice to meet you!",
+            "tran": "R\u1ea5t h\u00e2n h\u1ea1nh \u0111\u01b0\u1ee3c bi\u1ebft anh!"
+        },
+        {
+            "id": "37",
+            "nb_repeat": 1,
+            "next_time": 1600306634,
+            "word": "Please to meet you, too",
+            "tran": "T\u00f4i c\u0169ng r\u1ea5t h\u00e2n h\u1ea1nh \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh"
+        },
+        {
+            "id": "38",
+            "nb_repeat": 1,
+            "next_time": 1600306650,
+            "word": "How do you do? My name is Le",
+            "tran": "Ch\u00e0o anh. T\u00ean c\u1ee7a t\u00f4i l\u00e0 L\u00ea."
+        },
+        {
+            "id": "39",
+            "nb_repeat": 1,
+            "next_time": 1600306789,
+            "word": "How do you do? I'm Hung.",
+            "tran": "Xin ch\u00e0o. M\u00ecnh t\u00ean l\u00e0 H\u00f9ng."
+        },
+        {
+            "id": "40",
+            "nb_repeat": 1,
+            "next_time": 1600306808,
+            "word": "Hello. It's nice to meet you . I'm Huong.",
+            "tran": "Ch\u00e0o anh. R\u1ea5t vui \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh. T\u00f4i l\u00e0 H\u01b0\u01a1ng"
+        },
+        {
+            "id": "41",
+            "nb_repeat": 1,
+            "next_time": 1600306837,
+            "word": "It's a pleasure to make your acquaintance. My name is Duc",
+            "tran": "R\u1ea5t vui \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh. T\u00ean t\u00f4i l\u00e0 \u0110\u1ee9c."
+        },
+        {
+            "id": "42",
+            "nb_repeat": 1,
+            "next_time": 1600306913,
+            "word": "Good morning. Please nice to see you",
+            "tran": "Ch\u00e0o bu\u1ed5i s\u00e1ng. R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n"
+        },
+        {
+            "id": "43",
+            "nb_repeat": 1,
+            "next_time": 1600306918,
+            "word": "So am I",
+            "tran": "T\u00f4i c\u0169ng v\u1eady"
+        },
+        {
+            "id": "44",
+            "nb_repeat": 1,
+            "next_time": 1600306927,
+            "word": "Where are you from?",
+            "tran": "B\u1ea1n \u0111\u1ebfn t\u1eeb \u0111\u00e2u?"
+        },
+        {
+            "id": "45",
+            "nb_repeat": 1,
+            "next_time": 1600306934,
+            "word": "I come from Quang Ninh",
+            "tran": "T\u00f4i \u0111\u1ebfn t\u1eeb Qu\u1ea3ng Ninh"
+        },
+        {
+            "id": "46",
+            "nb_repeat": 1,
+            "next_time": 1600306950,
+            "word": "I'm Tung. I'm from Nghe An",
+            "tran": "T\u00f4i l\u00e0 T\u00f9ng. T\u00f4i \u0111\u1ebfn t\u1eeb Ngh\u1ec7 An"
+        },
+        {
+            "id": "47",
+            "nb_repeat": 1,
+            "next_time": 1600307383,
+            "word": "Are you from Quang Binh?",
+            "tran": "Anh \u0111\u1ebfn t\u1eeb Qu\u1ea3ng B\u00ecnh ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "48",
+            "nb_repeat": 1,
+            "next_time": 1600307393,
+            "word": "No, I'm from Ha Tinh",
+            "tran": "Kh\u00f4ng, t\u00f4i \u0111\u1ebfn t\u1eeb H\u00e0 T\u0129nh"
+        },
+        {
+            "id": "49",
+            "nb_repeat": 1,
+            "next_time": 1600307399,
+            "word": "How old are you?",
+            "tran": "N\u0103m nay b\u1ea1n bao nhi\u00eau tu\u1ed5i?"
+        },
+        {
+            "id": "50",
+            "nb_repeat": 1,
+            "next_time": 1600307404,
+            "word": "I'm fifteen",
+            "tran": "T\u00f4i 15 tu\u1ed5i r\u1ed3i"
+        },
+        {
+            "id": "51",
+            "nb_repeat": 1,
+            "next_time": 1600307413,
+            "word": "I'm eighteen years old",
+            "tran": "N\u0103m nay t\u00f4i 18 tu\u1ed5i"
+        },
+        {
+            "id": "52",
+            "nb_repeat": 1,
+            "next_time": 1600307420,
+            "word": "Where do you live?",
+            "tran": "Anh s\u1ed1ng \u1edf \u0111\u00e2u?"
+        },
+        {
+            "id": "53",
+            "nb_repeat": 1,
+            "next_time": 1600307441,
+            "word": "Is this the first time you have come to Ha Noi?",
+            "tran": "\u0110\u00e2y l\u00e0 l\u1ea7n \u0111\u1ea7u ti\u00ean anh \u0111\u1ebfn H\u00e0 N\u1ed9i ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "54",
+            "nb_repeat": 1,
+            "next_time": 1600307451,
+            "word": "No, it's the second time",
+            "tran": "Kh\u00f4ng, \u0111\u00e2y l\u00e0 l\u1ea7n th\u1ee9 2"
+        },
+        {
+            "id": "55",
+            "nb_repeat": 1,
+            "next_time": 1600307457,
+            "word": "Is this Mai?",
+            "tran": "\u0110\u00e2y l\u00e0 Mai ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "56",
+            "nb_repeat": 1,
+            "next_time": 1600307466,
+            "word": "Where are you studying?",
+            "tran": "C\u1eadu \u0111ang h\u1ecdc \u1edf \u0111\u00e2u?"
+        },
+        {
+            "id": "57",
+            "nb_repeat": 1,
+            "next_time": 1600307475,
+            "word": "I am studying in Hue",
+            "tran": "M\u00ecnh h\u1ecdc \u1edf Hu\u1ebf"
+        },
+        {
+            "id": "58",
+            "nb_repeat": 1,
+            "next_time": 1600307479,
+            "word": "Who's this?",
+            "tran": "\u0110\u00e2y l\u00e0 ai?"
+        },
+        {
+            "id": "59",
+            "nb_repeat": 1,
+            "next_time": 1600307483,
+            "word": "It's Nam",
+            "tran": "\u0110\u00f3 l\u00e0 Nam"
+        },
+        {
+            "id": "60",
+            "nb_repeat": 1,
+            "next_time": 1600307494,
+            "word": "Can I speak Vietnamese?",
+            "tran": "T\u00f4i c\u00f3 th\u1ec3 n\u00f3i  ti\u1ebfng Vi\u1ec7t  \u0111\u01b0\u1ee3c kh\u00f4ng?"
+        },
+        {
+            "id": "61",
+            "nb_repeat": 1,
+            "next_time": 1600307511,
+            "word": "I can't speak Vietnamese at all",
+            "tran": "T\u00f4i kh\u00f4ng h\u1ec1 bi\u1ebft n\u00f3i ti\u1ebfng Vi\u1ec7t."
+        },
+        {
+            "id": "62",
+            "nb_repeat": 1,
+            "next_time": 1600307534,
+            "word": "What do you think about HaiPhong?",
+            "tran": "Anh th\u1ea5y H\u1ea3i Ph\u00f2ng th\u1ebf n\u00e0o?"
+        },
+        {
+            "id": "63",
+            "nb_repeat": 1,
+            "next_time": 1600307546,
+            "word": "Are you used to life in VietNam?",
+            "tran": "Anh \u0111\u00e3 quen v\u1edbi cu\u1ed9c s\u1ed1ng \u1edf Vi\u1ec7t Nam ch\u01b0a?"
+        },
+        {
+            "id": "64",
+            "nb_repeat": 1,
+            "next_time": 1600307557,
+            "word": "Are you here on vacation?",
+            "tran": "Anh \u0111i ngh\u1ec9 ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "65",
+            "nb_repeat": 1,
+            "next_time": 1600307567,
+            "word": "How do you do? My name is Kien",
+            "tran": "Ch\u00e0o anh. T\u00f4i l\u00e0 Ki\u00ean"
+        },
+        {
+            "id": "66",
+            "nb_repeat": 1,
+            "next_time": 1600307578,
+            "word": "How do you do? My name is Vinh",
+            "tran": "Ch\u00e0o anh. C\u00f2n t\u00f4i l\u00e0 Vinh"
+        },
+        {
+            "id": "67",
+            "nb_repeat": 1,
+            "next_time": 1600307586,
+            "word": "This is my name card",
+            "tran": "\u0110\u00e2y l\u00e0 danh thi\u1ebfp c\u1ee7a t\u00f4i"
+        },
+        {
+            "id": "68",
+            "nb_repeat": 1,
+            "next_time": 1600307595,
+            "word": "Thank you, and this is my card.",
+            "tran": "C\u1ea3m \u01a1n anh, c\u00f2n \u0111\u00e2y l\u00e0 danh thi\u1ebfp c\u1ee7a t\u00f4i."
+        },
+        {
+            "id": "69",
+            "nb_repeat": 1,
+            "next_time": 1600307612,
+            "word": "Let me inbtroduce you, this is Mr Hai",
+            "tran": "\u0110\u1ec3 t\u00f4i gi\u1edbi thi\u1ec7u v\u1edbi anh, \u0111\u00e2y l\u00e0 anh H\u1ea3i."
+        },
+        {
+            "id": "70",
+            "nb_repeat": 1,
+            "next_time": 1600307705,
+            "word": "Nice to meet you, Mr Vinh!",
+            "tran": "Anh Vinh, r\u1ea5t h\u00e2n h\u1ea1nh \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh!"
+        },
+        {
+            "id": "71",
+            "nb_repeat": 1,
+            "next_time": 1600307718,
+            "word": "Nice to meet you ,too, Mr Hai!",
+            "tran": "T\u00f4i c\u0169ng r\u1ea5t vui \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh, anh H\u1ea3i \u1ea1!"
+        },
+        {
+            "id": "72",
+            "nb_repeat": 1,
+            "next_time": 1600307724,
+            "word": "Hi, I'm Huy Tuan.",
+            "tran": "Ch\u00e0o anh. T\u00f4i l\u00e0 Huy Tu\u1ea5n."
+        },
+        {
+            "id": "73",
+            "nb_repeat": 1,
+            "next_time": 1600307738,
+            "word": "Hello, my name's Thanh Trung. Nice to meet you.",
+            "tran": "Xin ch\u00e0o, t\u00f4i t\u00ean l\u00e0 Th\u00e0nh Trung. R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p anh."
+        },
+        {
+            "id": "74",
+            "nb_repeat": 1,
+            "next_time": 1600307746,
+            "word": "Nice to meet you , too",
+            "tran": "T\u00f4i c\u0169ng r\u1ea5t h\u00e2n h\u1ea1nh \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh"
+        },
+        {
+            "id": "75",
+            "nb_repeat": 1,
+            "next_time": 1600307755,
+            "word": "Are you from Quang Binh?",
+            "tran": "Anh \u0111\u1ebfn t\u1eeb Qu\u1ea3ng B\u00ecnh ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "76",
+            "nb_repeat": 1,
+            "next_time": 1600307770,
+            "word": "No, I'm from Ha Tinh.",
+            "tran": "Kh\u00f4ng, t\u00f4i \u0111\u1ebfn t\u1eeb H\u00e0 T\u0129nh."
+        },
+        {
+            "id": "77",
+            "nb_repeat": 1,
+            "next_time": 1600307786,
+            "word": "Please let me introduce myself? I'm Quang",
+            "tran": "Xin cho ph\u00e9p t\u00f4i \u0111\u01b0\u1ee3c t\u1ef1 gi\u1edbi thi\u1ec7u . T\u00f4i l\u00e0 Quang"
+        },
+        {
+            "id": "78",
+            "nb_repeat": 1,
+            "next_time": 1600307798,
+            "word": "I'm John Smith. Please to meet you.",
+            "tran": "C\u00f2n t\u00f4i l\u00e0 John Smith. R\u1ea5t h\u00e2n h\u1ea1nh \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh."
+        },
+        {
+            "id": "79",
+            "nb_repeat": 1,
+            "next_time": 1600307807,
+            "word": "Are you Australian?",
+            "tran": "Anh l\u00e0 ng\u01b0\u1eddi \u00dac ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "80",
+            "nb_repeat": 1,
+            "next_time": 1600307814,
+            "word": "No, I am American.",
+            "tran": "Kh\u00f4ng , t\u00f4i l\u00e0 ng\u01b0\u1eddi M\u1ef9"
+        },
+        {
+            "id": "81",
+            "nb_repeat": 1,
+            "next_time": 1600307821,
+            "word": "Do you like Ha Noi?",
+            "tran": "Anh c\u00f3 th\u00edch H\u00e0 N\u1ed9i kh\u00f4ng?"
+        },
+        {
+            "id": "82",
+            "nb_repeat": 1,
+            "next_time": 1600307831,
+            "word": "Yes, I like it very much.",
+            "tran": "C\u00f3 ch\u1ee9. T\u00f4i r\u1ea5t th\u00edch n\u01a1i n\u00e0y."
+        },
+        {
+            "id": "83",
+            "nb_repeat": 1,
+            "next_time": 1600307839,
+            "word": "Are you here on vacation?",
+            "tran": "Anh \u0111\u1ebfn \u0111\u00e2y du l\u1ecbch \u00e0?"
+        },
+        {
+            "id": "84",
+            "nb_repeat": 1,
+            "next_time": 1600307854,
+            "word": "No, I'm not. I'm here working.",
+            "tran": "Kh\u00f4ng. T\u00f4i \u0111i c\u00f4ng t\u00e1c."
+        },
+        {
+            "id": "85",
+            "nb_repeat": 1,
+            "next_time": 1600307868,
+            "word": "Have you been to VietNam before?",
+            "tran": "Anh \u0111\u00e3 t\u1eebng \u0111\u1ebfn Vi\u1ec7t Nam ch\u01b0a?"
+        },
+        {
+            "id": "86",
+            "nb_repeat": 1,
+            "next_time": 1600307902,
+            "word": "No. It's my first time to com here.",
+            "tran": "Ch\u01b0a. \u0110\u00e2y l\u00e0 l\u1ea7n \u0111\u1ea7u ti\u00ean t\u00f4i \u0111\u1ebfn \u0111\u00e2y."
+        },
+        {
+            "id": "87",
+            "nb_repeat": 1,
+            "next_time": 1600307911,
+            "word": "How long will you stay here?",
+            "tran": "Anh s\u1ebd \u1edf l\u1ea1i Vi\u1ec7t Nam trong bao l\u00e2u?"
+        },
+        {
+            "id": "88",
+            "nb_repeat": 1,
+            "next_time": 1600307917,
+            "word": "A week.",
+            "tran": "T\u00f4i \u1edf l\u1ea1i \u0111\u00e2y 1 tu\u1ea7n"
+        },
+        {
+            "id": "89",
+            "nb_repeat": 1,
+            "next_time": 1600307927,
+            "word": "Can you speak Vietnamese?",
+            "tran": "Anh c\u00f3  bi\u1ebft ti\u1ebfng Vi\u1ec7t kh\u00f4ng?"
+        },
+        {
+            "id": "90",
+            "nb_repeat": 1,
+            "next_time": 1600307931,
+            "word": "Oh, a little",
+            "tran": "\u1ed2, ch\u1ec9 1 ch\u00fat th\u00f4i."
+        }
+    ],
+    "studyenglish": [
+        {
+            "id": "0",
+            "nb_repeat": 1,
+            "next_time": 1600277097,
+            "word": "Hi, Thu! How are you today?",
+            "tran": "Ch\u00e0o Thu? H\u00f4m nay c\u00f4 kh\u1ecfe kh\u00f4ng?"
+        },
+        {
+            "id": "1",
+            "nb_repeat": 1,
+            "next_time": 1600277112,
+            "word": "How are you?",
+            "tran": "Anh c\u00f3 kh\u1ecfe kh\u00f4ng?"
+        },
+        {
+            "id": "2",
+            "nb_repeat": 1,
+            "next_time": 1600335659,
+            "word": "How are things with you?",
+            "tran": "Anh c\u00f3 kh\u1ecfe kh\u00f4ng?"
+        },
+        {
+            "id": "3",
+            "nb_repeat": 1,
+            "next_time": 1600335667,
+            "word": "How're you doing?",
+            "tran": "Anh c\u00f3 kh\u1ecfe kh\u00f4ng?"
+        },
+        {
+            "id": "4",
+            "nb_repeat": 1,
+            "next_time": 1600335673,
+            "word": "Fine, thank you.",
+            "tran": "T\u00f4i kh\u1ecfe, c\u1ea3m \u01a1n anh."
+        },
+        {
+            "id": "5",
+            "nb_repeat": 1,
+            "next_time": 1600335679,
+            "word": "I'm fine. Thank you",
+            "tran": "T\u00f4i c\u0169ng kh\u1ecfe. C\u1ea3m \u01a1n b\u1ea1n"
+        },
+        {
+            "id": "6",
+            "nb_repeat": 1,
+            "next_time": 1600335684,
+            "word": "Great. You?",
+            "tran": "Tuy\u1ec7t v\u1eddi. C\u00f2n anh?"
+        },
+        {
+            "id": "7",
+            "nb_repeat": 1,
+            "next_time": 1600335693,
+            "word": "I'm doing fine.",
+            "tran": "T\u00f4i r\u1ea5t kh\u1ecfe"
+        },
+        {
+            "id": "8",
+            "nb_repeat": 1,
+            "next_time": 1600335701,
+            "word": "Not very bad, thank you.",
+            "tran": "V\u1eabn kh\u1ecfe, c\u1ea3m \u01a1n anh."
+        },
+        {
+            "id": "9",
+            "nb_repeat": 1,
+            "next_time": 1600335705,
+            "word": "Not so well.",
+            "tran": "Kh\u00f4ng kh\u1ecfe l\u1eafm."
+        },
+        {
+            "id": "10",
+            "nb_repeat": 1,
+            "next_time": 1600335710,
+            "word": "Nothing special",
+            "tran": "Kh\u00f4ng c\u00f3 g\u00ec \u0111\u1eb7c bi\u1ec7t"
+        },
+        {
+            "id": "11",
+            "nb_repeat": 1,
+            "next_time": 1600335717,
+            "word": "How's everything?",
+            "tran": "M\u1ecdi vi\u1ec7c th\u1ebf n\u00e0o?"
+        },
+        {
+            "id": "12",
+            "nb_repeat": 1,
+            "next_time": 1600335725,
+            "word": "How's everything going?",
+            "tran": "M\u1ecdi vi\u1ec7c di\u1ec5n ra th\u1ebf n\u00e0o?"
+        },
+        {
+            "id": "13",
+            "nb_repeat": 1,
+            "next_time": 1600335739,
+            "word": "How are things?",
+            "tran": "C\u00f4ng vi\u1ec7c th\u1ebf n\u00e0o?"
+        },
+        {
+            "id": "14",
+            "nb_repeat": 1,
+            "next_time": 1600335749,
+            "word": "How's your life?",
+            "tran": "Cu\u1ed9c s\u1ed1ng c\u1ee7a anh th\u1ebf n\u00e0o?"
+        },
+        {
+            "id": "15",
+            "nb_repeat": 1,
+            "next_time": 1600335756,
+            "word": "What's the lastest?",
+            "tran": "G\u1ea7n \u0111\u00e2y anh s\u1ed1ng th\u1ebf n\u00e0o?"
+        },
+        {
+            "id": "16",
+            "nb_repeat": 1,
+            "next_time": 1600335767,
+            "word": "I can't complain too much",
+            "tran": "T\u00f4i kh\u00f4ng c\u00f3 g\u00ec ph\u1ea3i ph\u00e0n n\u00e0n c\u1ea3."
+        },
+        {
+            "id": "17",
+            "nb_repeat": 1,
+            "next_time": 1600335772,
+            "word": "Surviving, thanks",
+            "tran": "C\u0169ng t\u1ea1m,c\u1ea3m \u01a1n"
+        },
+        {
+            "id": "18",
+            "nb_repeat": 1,
+            "next_time": 1600335775,
+            "word": "Not bad",
+            "tran": "C\u0169ng \u0111\u01b0\u1ee3c"
+        },
+        {
+            "id": "19",
+            "nb_repeat": 1,
+            "next_time": 1600335781,
+            "word": "Not so good",
+            "tran": "Kh\u00f4ng \u0111\u01b0\u1ee3c t\u1ed1t l\u1eafm"
+        },
+        {
+            "id": "20",
+            "nb_repeat": 1,
+            "next_time": 1600335785,
+            "word": "Same as ever",
+            "tran": "V\u1eabn nh\u01b0 tr\u01b0\u1edbc"
+        },
+        {
+            "id": "21",
+            "nb_repeat": 1,
+            "next_time": 1600335792,
+            "word": "Same old, same old",
+            "tran": "V\u1eabn nh\u01b0 m\u1ecdi khi"
+        },
+        {
+            "id": "22",
+            "nb_repeat": 1,
+            "next_time": 1600335802,
+            "word": "What are you doing these days?",
+            "tran": "D\u1ea1o n\u00e0y anh l\u00e0m g\u00ec v\u1eady?"
+        },
+        {
+            "id": "23",
+            "nb_repeat": 1,
+            "next_time": 1600335810,
+            "word": "What's the hurry?",
+            "tran": "Anh v\u1ed9i v\u00e0ng l\u00e0m g\u00ec v\u1eady?"
+        },
+        {
+            "id": "24",
+            "nb_repeat": 1,
+            "next_time": 1600335818,
+            "word": "Why are you in a hurry?",
+            "tran": "Sao anh v\u1ed9i v\u00e0ng th\u1ebf?"
+        },
+        {
+            "id": "25",
+            "nb_repeat": 1,
+            "next_time": 1600335825,
+            "word": "Where are you going?",
+            "tran": "Anh \u0111\u1ecbnh \u0111i \u0111\u00e2u v\u1eady?"
+        },
+        {
+            "id": "26",
+            "nb_repeat": 1,
+            "next_time": 1600335832,
+            "word": "What is going on?",
+            "tran": "Chuy\u1ec7n g\u00ec \u0111ang di\u1ec5n ra th\u1ebf?"
+        },
+        {
+            "id": "27",
+            "nb_repeat": 1,
+            "next_time": 1600335837,
+            "word": "What's up?",
+            "tran": "C\u00f3 chuy\u1ec7n g\u00ec v\u1eady?"
+        },
+        {
+            "id": "28",
+            "nb_repeat": 1,
+            "next_time": 1600335860,
+            "word": "I've heard that you are ill.  ",
+            "tran": "Nghe n\u00f3i anh b\u1ecb \u1ed1m."
+        },
+        {
+            "id": "29",
+            "nb_repeat": 1,
+            "next_time": 1600335869,
+            "word": "How is it going today?",
+            "tran": "H\u00f4m nay anh th\u1ea5y sao r\u1ed3i?"
+        },
+        {
+            "id": "30",
+            "nb_repeat": 1,
+            "next_time": 1600335875,
+            "word": "Hi, I'm Minh",
+            "tran": "Xin ch\u00e0o. T\u00f4i l\u00e0 Minh."
+        },
+        {
+            "id": "31",
+            "nb_repeat": 1,
+            "next_time": 1600335888,
+            "word": "Hi/ Hello, I'm Trung. You are ?",
+            "tran": "Ch\u00e0o anh, t\u00f4i l\u00e0 Trung. C\u00f2n anh?"
+        },
+        {
+            "id": "32",
+            "nb_repeat": 1,
+            "next_time": 1600335912,
+            "word": "Hi! What's your name?",
+            "tran": "Xin ch\u00e0o! Anh t\u00ean l\u00e0 g\u00ec?"
+        },
+        {
+            "id": "33",
+            "nb_repeat": 1,
+            "next_time": 1600335917,
+            "word": "I'm Nhung",
+            "tran": "T\u00f4i t\u00ean Nhung."
+        },
+        {
+            "id": "34",
+            "nb_repeat": 1,
+            "next_time": 1600335921,
+            "word": "My name is Thuong",
+            "tran": "T\u00ean t\u00f4i l\u00e0 Th\u01b0\u01a1ng."
+        },
+        {
+            "id": "35",
+            "nb_repeat": 1,
+            "next_time": 1600335927,
+            "word": "I'm happy to meet you",
+            "tran": "R\u1ea5t vui \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh."
+        },
+        {
+            "id": "36",
+            "nb_repeat": 1,
+            "next_time": 1600335941,
+            "word": "Nice to meet you!",
+            "tran": "R\u1ea5t h\u00e2n h\u1ea1nh \u0111\u01b0\u1ee3c bi\u1ebft anh!"
+        },
+        {
+            "id": "37",
+            "nb_repeat": 1,
+            "next_time": 1600335947,
+            "word": "Please to meet you, too",
+            "tran": "T\u00f4i c\u0169ng r\u1ea5t h\u00e2n h\u1ea1nh \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh"
+        },
+        {
+            "id": "38",
+            "nb_repeat": 1,
+            "next_time": 1600335956,
+            "word": "How do you do? My name is Le",
+            "tran": "Ch\u00e0o anh. T\u00ean c\u1ee7a t\u00f4i l\u00e0 L\u00ea."
+        },
+        {
+            "id": "39",
+            "nb_repeat": 1,
+            "next_time": 1600335966,
+            "word": "How do you do? I'm Hung.",
+            "tran": "Xin ch\u00e0o. M\u00ecnh t\u00ean l\u00e0 H\u00f9ng."
+        },
+        {
+            "id": "40",
+            "nb_repeat": 1,
+            "next_time": 1600335983,
+            "word": "Hello. It's nice to meet you . I'm Huong.",
+            "tran": "Ch\u00e0o anh. R\u1ea5t vui \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh. T\u00f4i l\u00e0 H\u01b0\u01a1ng"
+        },
+        {
+            "id": "41",
+            "nb_repeat": 1,
+            "next_time": 1600336002,
+            "word": "It's a pleasure to make your acquaintance. My name is Duc",
+            "tran": "R\u1ea5t vui \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh. T\u00ean t\u00f4i l\u00e0 \u0110\u1ee9c."
+        },
+        {
+            "id": "42",
+            "nb_repeat": 1,
+            "next_time": 1600336016,
+            "word": "Good morning. Please nice to see you",
+            "tran": "Ch\u00e0o bu\u1ed5i s\u00e1ng. R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n"
+        },
+        {
+            "id": "43",
+            "nb_repeat": 1,
+            "next_time": 1600336018,
+            "word": "So am I",
+            "tran": "T\u00f4i c\u0169ng v\u1eady"
+        },
+        {
+            "id": "44",
+            "nb_repeat": 1,
+            "next_time": 1600336025,
+            "word": "Where are you from?",
+            "tran": "B\u1ea1n \u0111\u1ebfn t\u1eeb \u0111\u00e2u?"
+        },
+        {
+            "id": "45",
+            "nb_repeat": 1,
+            "next_time": 1600336036,
+            "word": "I come from Quang Ninh",
+            "tran": "T\u00f4i \u0111\u1ebfn t\u1eeb Qu\u1ea3ng Ninh"
+        },
+        {
+            "id": "46",
+            "nb_repeat": 1,
+            "next_time": 1600336048,
+            "word": "I'm Tung. I'm from Nghe An",
+            "tran": "T\u00f4i l\u00e0 T\u00f9ng. T\u00f4i \u0111\u1ebfn t\u1eeb Ngh\u1ec7 An"
+        },
+        {
+            "id": "47",
+            "nb_repeat": 1,
+            "next_time": 1600336057,
+            "word": "Are you from Quang Binh?",
+            "tran": "Anh \u0111\u1ebfn t\u1eeb Qu\u1ea3ng B\u00ecnh ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "48",
+            "nb_repeat": 1,
+            "next_time": 1600336065,
+            "word": "No, I'm from Ha Tinh",
+            "tran": "Kh\u00f4ng, t\u00f4i \u0111\u1ebfn t\u1eeb H\u00e0 T\u0129nh"
+        },
+        {
+            "id": "49",
+            "nb_repeat": 1,
+            "next_time": 1600336070,
+            "word": "How old are you?",
+            "tran": "N\u0103m nay b\u1ea1n bao nhi\u00eau tu\u1ed5i?"
+        },
+        {
+            "id": "50",
+            "nb_repeat": 1,
+            "next_time": 1600336074,
+            "word": "I'm fifteen",
+            "tran": "T\u00f4i 15 tu\u1ed5i r\u1ed3i"
+        },
+        {
+            "id": "51",
+            "nb_repeat": 1,
+            "next_time": 1600336081,
+            "word": "I'm eighteen years old",
+            "tran": "N\u0103m nay t\u00f4i 18 tu\u1ed5i"
+        },
+        {
+            "id": "52",
+            "nb_repeat": 1,
+            "next_time": 1600336086,
+            "word": "Where do you live?",
+            "tran": "Anh s\u1ed1ng \u1edf \u0111\u00e2u?"
+        },
+        {
+            "id": "53",
+            "nb_repeat": 1,
+            "next_time": 1600336098,
+            "word": "Is this the first time you have come to Ha Noi?",
+            "tran": "\u0110\u00e2y l\u00e0 l\u1ea7n \u0111\u1ea7u ti\u00ean anh \u0111\u1ebfn H\u00e0 N\u1ed9i ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "54",
+            "nb_repeat": 1,
+            "next_time": 1600336106,
+            "word": "No, it's the second time",
+            "tran": "Kh\u00f4ng, \u0111\u00e2y l\u00e0 l\u1ea7n th\u1ee9 2"
+        },
+        {
+            "id": "55",
+            "nb_repeat": 1,
+            "next_time": 1600336111,
+            "word": "Is this Mai?",
+            "tran": "\u0110\u00e2y l\u00e0 Mai ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "56",
+            "nb_repeat": 1,
+            "next_time": 1600336120,
+            "word": "Where are you studying?",
+            "tran": "C\u1eadu \u0111ang h\u1ecdc \u1edf \u0111\u00e2u?"
+        },
+        {
+            "id": "57",
+            "nb_repeat": 1,
+            "next_time": 1600336126,
+            "word": "I am studying in Hue",
+            "tran": "M\u00ecnh h\u1ecdc \u1edf Hu\u1ebf"
+        },
+        {
+            "id": "58",
+            "nb_repeat": 1,
+            "next_time": 1600336130,
+            "word": "Who's this?",
+            "tran": "\u0110\u00e2y l\u00e0 ai?"
+        },
+        {
+            "id": "59",
+            "nb_repeat": 1,
+            "next_time": 1600336134,
+            "word": "It's Nam",
+            "tran": "\u0110\u00f3 l\u00e0 Nam"
+        },
+        {
+            "id": "60",
+            "nb_repeat": 1,
+            "next_time": 1600336146,
+            "word": "Can I speak Vietnamese?",
+            "tran": "T\u00f4i c\u00f3 th\u1ec3 n\u00f3i  ti\u1ebfng Vi\u1ec7t  \u0111\u01b0\u1ee3c kh\u00f4ng?"
+        },
+        {
+            "id": "61",
+            "nb_repeat": 1,
+            "next_time": 1600336159,
+            "word": "I can't speak Vietnamese at all",
+            "tran": "T\u00f4i kh\u00f4ng h\u1ec1 bi\u1ebft n\u00f3i ti\u1ebfng Vi\u1ec7t."
+        },
+        {
+            "id": "62",
+            "nb_repeat": 1,
+            "next_time": 1600336169,
+            "word": "What do you think about HaiPhong?",
+            "tran": "Anh th\u1ea5y H\u1ea3i Ph\u00f2ng th\u1ebf n\u00e0o?"
+        },
+        {
+            "id": "63",
+            "nb_repeat": 1,
+            "next_time": 1600336178,
+            "word": "Are you used to life in VietNam?",
+            "tran": "Anh \u0111\u00e3 quen v\u1edbi cu\u1ed9c s\u1ed1ng \u1edf Vi\u1ec7t Nam ch\u01b0a?"
+        },
+        {
+            "id": "64",
+            "nb_repeat": 1,
+            "next_time": 1600336187,
+            "word": "Are you here on vacation?",
+            "tran": "Anh \u0111i ngh\u1ec9 ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "65",
+            "nb_repeat": 1,
+            "next_time": 1600336194,
+            "word": "How do you do? My name is Kien",
+            "tran": "Ch\u00e0o anh. T\u00f4i l\u00e0 Ki\u00ean"
+        },
+        {
+            "id": "66",
+            "nb_repeat": 1,
+            "next_time": 1600336203,
+            "word": "How do you do? My name is Vinh",
+            "tran": "Ch\u00e0o anh. C\u00f2n t\u00f4i l\u00e0 Vinh"
+        },
+        {
+            "id": "67",
+            "nb_repeat": 1,
+            "next_time": 1600336210,
+            "word": "This is my name card",
+            "tran": "\u0110\u00e2y l\u00e0 danh thi\u1ebfp c\u1ee7a t\u00f4i"
+        },
+        {
+            "id": "68",
+            "nb_repeat": 1,
+            "next_time": 1600336221,
+            "word": "Thank you, and this is my card.",
+            "tran": "C\u1ea3m \u01a1n anh, c\u00f2n \u0111\u00e2y l\u00e0 danh thi\u1ebfp c\u1ee7a t\u00f4i."
+        },
+        {
+            "id": "69",
+            "nb_repeat": 1,
+            "next_time": 1600336232,
+            "word": "Let me inbtroduce you, this is Mr Hai",
+            "tran": "\u0110\u1ec3 t\u00f4i gi\u1edbi thi\u1ec7u v\u1edbi anh, \u0111\u00e2y l\u00e0 anh H\u1ea3i."
+        },
+        {
+            "id": "70",
+            "nb_repeat": 1,
+            "next_time": 1600336248,
+            "word": "Nice to meet you, Mr Vinh!",
+            "tran": "Anh Vinh, r\u1ea5t h\u00e2n h\u1ea1nh \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh!"
+        },
+        {
+            "id": "71",
+            "nb_repeat": 1,
+            "next_time": 1600336263,
+            "word": "Nice to meet you ,too, Mr Hai!",
+            "tran": "T\u00f4i c\u0169ng r\u1ea5t vui \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh, anh H\u1ea3i \u1ea1!"
+        },
+        {
+            "id": "72",
+            "nb_repeat": 1,
+            "next_time": 1600336275,
+            "word": "Hi, I'm Huy Tuan.",
+            "tran": "Ch\u00e0o anh. T\u00f4i l\u00e0 Huy Tu\u1ea5n."
+        },
+        {
+            "id": "73",
+            "nb_repeat": 1,
+            "next_time": 1600336288,
+            "word": "Hello, my name's Thanh Trung. Nice to meet you.",
+            "tran": "Xin ch\u00e0o, t\u00f4i t\u00ean l\u00e0 Th\u00e0nh Trung. R\u1ea5t vui \u0111\u01b0\u1ee3c g\u1eb7p anh."
+        },
+        {
+            "id": "74",
+            "nb_repeat": 1,
+            "next_time": 1600336296,
+            "word": "Nice to meet you , too",
+            "tran": "T\u00f4i c\u0169ng r\u1ea5t h\u00e2n h\u1ea1nh \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh"
+        },
+        {
+            "id": "75",
+            "nb_repeat": 1,
+            "next_time": 1600336303,
+            "word": "Are you from Quang Binh?",
+            "tran": "Anh \u0111\u1ebfn t\u1eeb Qu\u1ea3ng B\u00ecnh ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "76",
+            "nb_repeat": 1,
+            "next_time": 1600336311,
+            "word": "No, I'm from Ha Tinh.",
+            "tran": "Kh\u00f4ng, t\u00f4i \u0111\u1ebfn t\u1eeb H\u00e0 T\u0129nh."
+        },
+        {
+            "id": "77",
+            "nb_repeat": 1,
+            "next_time": 1600336325,
+            "word": "Please let me introduce myself? I'm Quang",
+            "tran": "Xin cho ph\u00e9p t\u00f4i \u0111\u01b0\u1ee3c t\u1ef1 gi\u1edbi thi\u1ec7u . T\u00f4i l\u00e0 Quang"
+        },
+        {
+            "id": "78",
+            "nb_repeat": 1,
+            "next_time": 1600336338,
+            "word": "I'm John Smith. Please to meet you.",
+            "tran": "C\u00f2n t\u00f4i l\u00e0 John Smith. R\u1ea5t h\u00e2n h\u1ea1nh \u0111\u01b0\u1ee3c l\u00e0m quen v\u1edbi anh."
+        },
+        {
+            "id": "79",
+            "nb_repeat": 1,
+            "next_time": 1600336347,
+            "word": "Are you Australian?",
+            "tran": "Anh l\u00e0 ng\u01b0\u1eddi \u00dac ph\u1ea3i kh\u00f4ng?"
+        },
+        {
+            "id": "80",
+            "nb_repeat": 1,
+            "next_time": 1600336355,
+            "word": "No, I am American.",
+            "tran": "Kh\u00f4ng , t\u00f4i l\u00e0 ng\u01b0\u1eddi M\u1ef9"
+        },
+        {
+            "id": "81",
+            "nb_repeat": 1,
+            "next_time": 1600336361,
+            "word": "Do you like Ha Noi?",
+            "tran": "Anh c\u00f3 th\u00edch H\u00e0 N\u1ed9i kh\u00f4ng?"
+        },
+        {
+            "id": "82",
+            "nb_repeat": 1,
+            "next_time": 1600336370,
+            "word": "Yes, I like it very much.",
+            "tran": "C\u00f3 ch\u1ee9. T\u00f4i r\u1ea5t th\u00edch n\u01a1i n\u00e0y."
+        },
+        {
+            "id": "83",
+            "nb_repeat": 1,
+            "next_time": 1600336386,
+            "word": "Are you here on vacation?",
+            "tran": "Anh \u0111\u1ebfn \u0111\u00e2y du l\u1ecbch \u00e0?"
+        },
+        {
+            "id": "84",
+            "nb_repeat": 1,
+            "next_time": 1600336396,
+            "word": "No, I'm not. I'm here working.",
+            "tran": "Kh\u00f4ng. T\u00f4i \u0111i c\u00f4ng t\u00e1c."
+        },
+        {
+            "id": "85",
+            "nb_repeat": 1,
+            "next_time": 1600336405,
+            "word": "Have you been to VietNam before?",
+            "tran": "Anh \u0111\u00e3 t\u1eebng \u0111\u1ebfn Vi\u1ec7t Nam ch\u01b0a?"
+        },
+        {
+            "id": "86",
+            "nb_repeat": 1,
+            "next_time": 1600336417,
+            "word": "No. It's my first time to com here.",
+            "tran": "Ch\u01b0a. \u0110\u00e2y l\u00e0 l\u1ea7n \u0111\u1ea7u ti\u00ean t\u00f4i \u0111\u1ebfn \u0111\u00e2y."
+        },
+        {
+            "id": "87",
+            "nb_repeat": 1,
+            "next_time": 1600336425,
+            "word": "How long will you stay here?",
+            "tran": "Anh s\u1ebd \u1edf l\u1ea1i Vi\u1ec7t Nam trong bao l\u00e2u?"
+        },
+        {
+            "id": "88",
+            "nb_repeat": 1,
+            "next_time": 1600336434,
+            "word": "A week.",
+            "tran": "T\u00f4i \u1edf l\u1ea1i \u0111\u00e2y 1 tu\u1ea7n"
+        },
+        {
+            "id": "89",
+            "nb_repeat": 1,
+            "next_time": 1600336447,
+            "word": "Can you speak Vietnamese?",
+            "tran": "Anh c\u00f3  bi\u1ebft ti\u1ebfng Vi\u1ec7t kh\u00f4ng?"
+        },
+        {
+            "id": "90",
+            "nb_repeat": 1,
+            "next_time": 1600336452,
+            "word": "Oh, a little",
+            "tran": "\u1ed2, ch\u1ec9 1 ch\u00fat th\u00f4i."
+        }
+    ],
+    "buonchanlolang": [
+        {
+            "id": "0",
+            "nb_repeat": 1,
+            "next_time": 1600280222,
+            "word": "It's a worry to me whether I can pass the interview",
+            "tran": "T\u00f4i r\u1ea5t lo kh\u00f4ng bi\u1ebft t\u00f4i c\u00f3 th\u1ec3 v\u01b0\u1ee3t qua v\u00f2ng ph\u1ecfng v\u1ea5n kh\u00f4ng"
+        },
+        {
+            "id": "1",
+            "nb_repeat": 1,
+            "next_time": 1600280241,
+            "word": "I'm afraid I will fail in this exam",
+            "tran": "T\u00f4i lo m\u00ecnh kh\u00f4ng thi \u0111\u1eadu \u0111\u1ee3t n\u00e0y"
+        },
+        {
+            "id": "2",
+            "nb_repeat": 1,
+            "next_time": 1600280277,
+            "word": "I'm afraid I'll miss the train if I leave home late",
+            "tran": "T\u00f4i s\u1ee3 r\u1eb1ng \u0111i mu\u1ed9n s\u1ebd kh\u00f4ng k\u1ecbp t\u00e0u"
+        },
+        {
+            "id": "3",
+            "nb_repeat": 1,
+            "next_time": 1600280295,
+            "word": "I'm afraid it is not as easy as you have expected",
+            "tran": "S\u1ee3 r\u1eb1ng chuy\u1ec7n n\u00e0y kh\u00f4ng d\u1ec5 d\u00e0ng nh\u01b0  anh ngh\u0129 \u0111\u00e2u"
+        },
+        {
+            "id": "4",
+            "nb_repeat": 1,
+            "next_time": 1600307975,
+            "word": "I really don't know what to do",
+            "tran": "Th\u1eadt kh\u00f4ng bi\u1ebft ph\u1ea3i l\u00e0m th\u1ebf n\u00e0o m\u1edbi ph\u1ea3i"
+        },
+        {
+            "id": "5",
+            "nb_repeat": 1,
+            "next_time": 1600307987,
+            "word": "What if he doesn't agree?",
+            "tran": "N\u1ebfu anh \u1ea5y kh\u00f4ng ch\u1ea5p thu\u1eadn, ch\u00fang ta ph\u1ea3i l\u00e0m th\u1ebf n\u00e0o?"
+        },
+        {
+            "id": "6",
+            "nb_repeat": 1,
+            "next_time": 1600307994,
+            "word": "I have stage fright",
+            "tran": "T\u00f4i th\u1ea5y h\u01a1i h\u1ed3i h\u1ed9p"
+        },
+        {
+            "id": "7",
+            "nb_repeat": 1,
+            "next_time": 1600308657,
+            "word": "I'm a bit nervous",
+            "tran": "T\u00f4i h\u01a1i c\u0103ng th\u1eb3ng"
+        },
+        {
+            "id": "8",
+            "nb_repeat": 1,
+            "next_time": 1600308677,
+            "word": "It makes me worried",
+            "tran": "\u0110i\u1ec1u \u0111\u00f3 khi\u1ebfn t\u00f4i lo l\u1eafng"
+        },
+        {
+            "id": "9",
+            "nb_repeat": 1,
+            "next_time": 1600308695,
+            "word": "I'm rather apprehensive for his safety",
+            "tran": "T\u00f4i r\u1ea5t lo v\u1ec1 s\u1ef1 an to\u00e0n c\u1ee7a anh \u1ea5y"
+        },
+        {
+            "id": "10",
+            "nb_repeat": 1,
+            "next_time": 1600308707,
+            "word": "His wound upsets out of my wits",
+            "tran": "V\u1ebft th\u01b0\u01a1ng c\u1ee7a anh \u1ea5y l\u00e0m t\u00f4i r\u1ea5t \u0111au l\u00f2ng"
+        },
+        {
+            "id": "11",
+            "nb_repeat": 1,
+            "next_time": 1600308726,
+            "word": "I will not rest assured, for he is going there alone",
+            "tran": "\u0110\u1ec3 m\u00ecnh anh \u1ea5y \u0111i t\u00f4i th\u1ef1c s\u1ef1 kh\u00f4ng y\u00ean t\u00e2m"
+        },
+        {
+            "id": "12",
+            "nb_repeat": 1,
+            "next_time": 1600308745,
+            "word": "I'm worried sick that she might leave me one day",
+            "tran": "T\u00f4i lo 1 ng\u00e0y n\u00e0o \u0111\u00f3 c\u00f4 \u1ea5y s\u1ebd r\u1eddi xa t\u00f4i"
+        },
+        {
+            "id": "13",
+            "nb_repeat": 1,
+            "next_time": 1600308756,
+            "word": "I'm worrying that she might not come back",
+            "tran": "T\u00f4i lo c\u00f4 \u1ea5y kh\u00f4ng quay l\u1ea1i"
+        },
+        {
+            "id": "14",
+            "nb_repeat": 1,
+            "next_time": 1600308787,
+            "word": "I'm afraid that we're going to run out of water",
+            "tran": "T\u00f4i lo r\u1eb1ng ch\u00fang ta s\u1ebd h\u1ebft n\u01b0\u1edbc d\u00f9ng m\u1ea5t th\u00f4i"
+        },
+        {
+            "id": "15",
+            "nb_repeat": 1,
+            "next_time": 1600308823,
+            "word": "Serious pollution in the seas gives us some cause for concern",
+            "tran": "Bi\u1ec3n b\u1ecb \u00f4 nhi\u1ec5m n\u1eb7ng khi\u1ebfn ch\u00fang ta lo l\u1eafng"
+        },
+        {
+            "id": "16",
+            "nb_repeat": 1,
+            "next_time": 1600308837,
+            "word": "I'm afraid I'll be late",
+            "tran": "E l\u00e0 t\u00f4i s\u1ebd \u0111\u1ebfn mu\u1ed9n \u0111\u1ea5y"
+        },
+        {
+            "id": "17",
+            "nb_repeat": 1,
+            "next_time": 1600308851,
+            "word": "I'm concerned about losing money.",
+            "tran": "T\u00f4i lo b\u1ecb m\u1ea5t ti\u1ec1n"
+        },
+        {
+            "id": "18",
+            "nb_repeat": 1,
+            "next_time": 1600308860,
+            "word": "It is dangerous to buy this house",
+            "tran": "Mua ng\u00f4i nh\u00e0 n\u00e0y l\u00e0 r\u1ea5t m\u1ea1o hi\u1ec3m \u0111\u1ea5y"
+        },
+        {
+            "id": "19",
+            "nb_repeat": 1,
+            "next_time": 1600308872,
+            "word": "I'm afraid of living in this building.",
+            "tran": "T\u00f4i s\u1ee3 s\u1ed1ng trong ng\u00f4i nh\u00e0 \u0111\u00f3"
+        },
+        {
+            "id": "20",
+            "nb_repeat": 1,
+            "next_time": 1600308879,
+            "word": "It gives me the creeps",
+            "tran": "N\u00f3 l\u00e0m t\u00f4i ho\u1ea3ng s\u1ee3"
+        },
+        {
+            "id": "21",
+            "nb_repeat": 1,
+            "next_time": 1600308887,
+            "word": "What can I do about it!",
+            "tran": "T\u00f4i c\u00f3 th\u1ec3 l\u00e0m g\u00ec \u0111\u01b0\u1ee3c \u0111\u00e2y!"
+        },
+        {
+            "id": "22",
+            "nb_repeat": 1,
+            "next_time": 1600308894,
+            "word": "How boring it is!",
+            "tran": "Ch\u00e1n qu\u00e1!"
+        },
+        {
+            "id": "23",
+            "nb_repeat": 1,
+            "next_time": 1600308924,
+            "word": "I'm not in the mood",
+            "tran": "T\u00f4i ch\u1eb3ng c\u00f2n t\u00e2m tr\u1ea1ng n\u00e0o c\u1ea3"
+        },
+        {
+            "id": "24",
+            "nb_repeat": 1,
+            "next_time": 1600308932,
+            "word": "I want to give it up",
+            "tran": "T\u00f4i mu\u1ed1n t\u1eeb b\u1ecf"
+        },
+        {
+            "id": "25",
+            "nb_repeat": 1,
+            "next_time": 1600308938,
+            "word": "My heart is broken",
+            "tran": "Tr\u00e1i tim t\u00f4i nh\u01b0 tan n\u00e1t h\u1ebft r\u1ed3i"
+        },
+        {
+            "id": "26",
+            "nb_repeat": 1,
+            "next_time": 1600308948,
+            "word": "I'm very sad about my mistake",
+            "tran": "T\u00f4i r\u1ea5t bu\u1ed3n v\u1ec1 sai l\u1ea7m c\u1ee7a m\u00ecnh"
+        },
+        {
+            "id": "27",
+            "nb_repeat": 1,
+            "next_time": 1600308956,
+            "word": "It's not as good as I thought",
+            "tran": "N\u00f3 kh\u00f4ng t\u1ed1t nh\u01b0 t\u00f4i ngh\u0129"
+        },
+        {
+            "id": "28",
+            "nb_repeat": 1,
+            "next_time": 1600308997,
+            "word": "I always make mistakes. I'm so foolish",
+            "tran": "T\u00f4i lu\u00f4n m\u1eafc l\u1ed7i. T\u00f4i th\u1eadt ng\u1ed1c ngh\u1ebfch"
+        },
+        {
+            "id": "29",
+            "nb_repeat": 1,
+            "next_time": 1600309006,
+            "word": "I'm tired of the routine work",
+            "tran": "T\u00f4i ch\u00e1n c\u00f4ng vi\u1ec7c th\u01b0\u1eddng ng\u00e0y"
+        },
+        {
+            "id": "30",
+            "nb_repeat": 1,
+            "next_time": 1600309021,
+            "word": "I'm really sick of waiting for a bus",
+            "tran": "T\u00f4i th\u1ef1c s\u1ef1 ch\u00e1n vi\u1ec7c \u0111\u1ee3i xe bu\u00fdt"
+        },
+        {
+            "id": "31",
+            "nb_repeat": 1,
+            "next_time": 1600309037,
+            "word": "Reciting texts really bores me to death",
+            "tran": "T\u00f4i th\u1ea5y ch\u00e1n ph\u1ea3i h\u1ecdc thu\u1ed9c l\u00f2ng c\u00e1c \u0111o\u1ea1n tr\u00edch"
+        },
+        {
+            "id": "32",
+            "nb_repeat": 1,
+            "next_time": 1600309049,
+            "word": "I'm fed up with this lecture",
+            "tran": "T\u00f4i ch\u00e1n ng\u1ea5y b\u00e0i gi\u1ea3ng n\u00e0y"
+        },
+        {
+            "id": "33",
+            "nb_repeat": 1,
+            "next_time": 1600309061,
+            "word": "His endless talking really turns me off",
+            "tran": "T\u00f4i th\u1ea5y ch\u00e1n nh\u1eefng c\u00e2u chuy\u1ec7n d\u00e0i d\u00f2ng c\u1ee7a anh \u1ea5y "
+        },
+        {
+            "id": "34",
+            "nb_repeat": 1,
+            "next_time": 1600309080,
+            "word": "Lam, why don't you go to the movie with your brother?",
+            "tran": "L\u00e2m, sao con kh\u00f4ng \u0111i xem phim  c\u00f9ng anh con?"
+        },
+        {
+            "id": "35",
+            "nb_repeat": 1,
+            "next_time": 1600309086,
+            "word": "I'm not in the mood",
+            "tran": "Con ch\u1eb3ng c\u00f2n t\u00e2m tr\u1ea1ng n\u00e0o c\u1ea3"
+        },
+        {
+            "id": "36",
+            "nb_repeat": 1,
+            "next_time": 1600309097,
+            "word": "What's the matter?",
+            "tran": "Sao th\u1ebf"
+        },
+        {
+            "id": "37",
+            "nb_repeat": 1,
+            "next_time": 1600309118,
+            "word": "I failed the English exam again. I want to give it up",
+            "tran": "B\u00e0i thi m\u00f4n ti\u1ebfng Anh c\u1ee7a con l\u1ea1i kh\u00f4ng \u0111\u1ea1t y\u00eau c\u1ea7u. Con mu\u1ed1n b\u1ecf m\u00f4n h\u1ecdc n\u00e0y"
+        },
+        {
+            "id": "38",
+            "nb_repeat": 1,
+            "next_time": 1600309138,
+            "word": "Don't lose heart. Try again!",
+            "tran": "Con \u0111\u1eebng n\u1ea3n, h\u00e3y c\u1ed1 g\u1eafng l\u00ean!"
+        },
+        {
+            "id": "39",
+            "nb_repeat": 1,
+            "next_time": 1600309158,
+            "word": "I'm afraid I can't catch up with my classmates",
+            "tran": "Ch\u1eafc l\u00e0 con kh\u00f4ng theo k\u1ecbp c\u00e1c b\u1ea1n c\u00f9ng l\u1edbp"
+        },
+        {
+            "id": "40",
+            "nb_repeat": 1,
+            "next_time": 1600309173,
+            "word": "Come on! I know you can make it",
+            "tran": "C\u1ed1 l\u00ean! M\u1eb9 bi\u1ebft con c\u00f3 th\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c m\u00e0"
+        },
+        {
+            "id": "41",
+            "nb_repeat": 1,
+            "next_time": 1600309193,
+            "word": "Hi, Khai. You look blue today. Is there anything the matter?",
+            "tran": "Ch\u00e0o Kh\u1ea3i, tr\u00f4ng anh r\u1ea5t bu\u1ed3n. C\u00f3 chuy\u1ec7n g\u00ec v\u1eady?"
+        },
+        {
+            "id": "42",
+            "nb_repeat": 1,
+            "next_time": 1600309232,
+            "word": "Dunng and I broke up. My heart is broken",
+            "tran": "T\u00f4i v\u00e0 Dung chia tay r\u1ed3i. Tr\u00e1i tim t\u00f4i nh\u01b0 tan n\u00e1t h\u1ebft r\u1ed3i"
+        },
+        {
+            "id": "43",
+            "nb_repeat": 1,
+            "next_time": 1600309251,
+            "word": "Take it easy",
+            "tran": "Anh h\u00e3y b\u00ecnh t\u0129nh n\u00e0o"
+        },
+        {
+            "id": "44",
+            "nb_repeat": 1,
+            "next_time": 1600309259,
+            "word": "I'm afraid I can't",
+            "tran": "E l\u00e0 t\u00f4i kh\u00f4ng th\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c"
+        },
+        {
+            "id": "45",
+            "nb_repeat": 1,
+            "next_time": 1600309274,
+            "word": "Let's think that she's not yours",
+            "tran": "H\u00e3y c\u1ee9 ngh\u0129 c\u00f4 \u1ea5y kh\u00f4ng ph\u1ea3i d\u00e0nh cho anh \u0111i"
+        },
+        {
+            "id": "46",
+            "nb_repeat": 1,
+            "next_time": 1600309283,
+            "word": "But I love her so much",
+            "tran": "Nh\u01b0ng t\u00f4i r\u1ea5t y\u00eau c\u00f4 \u1ea5y"
+        },
+        {
+            "id": "47",
+            "nb_repeat": 1,
+            "next_time": 1600309321,
+            "word": "Don't be so bad. You'll be OK. Let bygones be bygones",
+            "tran": "\u0110\u1eebng c\u00f3 bu\u1ed3n nh\u01b0 v\u1eady, anh s\u1ebd \u1ed5n th\u00f4i. H\u00e3y \u0111\u1ec3 qu\u00e1 kh\u1ee9 tr\u00f4i v\u00e0o qu\u00ean l\u00e3ng \u0111i."
+        },
+        {
+            "id": "48",
+            "nb_repeat": 1,
+            "next_time": 1600309338,
+            "word": "Huong, how about your new house?",
+            "tran": "Ch\u1ecb H\u01b0\u01a1ng n\u00e0y, nh\u00e0 m\u1edbi c\u1ee7a ch\u1ecb th\u1ebf n\u00e0o?"
+        },
+        {
+            "id": "49",
+            "nb_repeat": 1,
+            "next_time": 1600309347,
+            "word": "It's not as good as I thought",
+            "tran": "N\u00f3 kh\u00f4ng t\u1ed1t nh\u01b0 t\u00f4i ngh\u0129"
+        },
+        {
+            "id": "50",
+            "nb_repeat": 1,
+            "next_time": 1600309362,
+            "word": "Really? Isn't it a beautiful house?",
+            "tran": "Th\u1eadt kh\u00f4ng? L\u1ebd n\u00e0o \u0111\u00f3 kh\u00f4ng ph\u1ea3i l\u00e0 ng\u00f4i nh\u00e0 \u0111\u1eb9p sao?"
+        },
+        {
+            "id": "51",
+            "nb_repeat": 1,
+            "next_time": 1600335547,
+            "word": "Yes, it is. But there's a small airport nearby. Sometimes it's very noisy",
+            "tran": "N\u00f3 r\u1ea5t \u0111\u1eb9p, nh\u01b0ng \u1edf g\u1ea7n \u0111\u00f3 c\u00f3 1 s\u00e2n bay nh\u1ecf, v\u00ec v\u1eady c\u00f3 l\u00fac r\u1ea5t \u1ed3n"
+        },
+        {
+            "id": "52",
+            "nb_repeat": 1,
+            "next_time": 1600335568,
+            "word": "That's too bad. But it's quite most of the time, isn't it?",
+            "tran": "Th\u1ebf th\u00ec t\u1ec7 th\u1eadt. Nh\u01b0ng h\u1ea7u h\u1ebft th\u1eddi gian \u0111\u1ec1u y\u00ean t\u0129nh \u0111\u00fang kh\u00f4ng?"
+        },
+        {
+            "id": "53",
+            "nb_repeat": 1,
+            "next_time": 1600335609,
+            "word": "Yes. But I'm worried the plane may fall on my house one day",
+            "tran": "\u0110\u00fang, nh\u01b0ng t\u00f4i lo c\u00f3 ng\u00e0y m\u00e1y bay s\u1ebd r\u01a1i v\u00e0o nh\u00e0 t\u00f4i"
+        },
+        {
+            "id": "54",
+            "nb_repeat": 1,
+            "next_time": 1600335643,
+            "word": "It's almost impossible. There's no need to worry about it",
+            "tran": "Chuy\u1ec7n n\u00e0y kh\u00f4ng th\u1ec3 x\u1ea3y ra \u0111\u01b0\u1ee3c. Ch\u1ecb kh\u00f4ng c\u1ea7n ph\u1ea3i lo nh\u01b0 th\u1ebf"
+        }
+    ]
+}
